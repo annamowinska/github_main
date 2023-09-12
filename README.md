@@ -5,6 +5,6 @@
 
 ### My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annamowinska&color=green)](https://github.com/annamowinska/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annamowinska)](https://github.com/annamowinska/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=annamowinska&color=green)
