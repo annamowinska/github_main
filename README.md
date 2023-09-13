@@ -14,8 +14,8 @@
 <br>
 <br>
 <p>Contact</p>
-<a href="[mailto:mowinskaania@gmail.com](https://www.google.com/search?q=mailto%3mowinskaania%40gmail.com)">
-  <img height=40 src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="mailto:mowinskaania@gmail.com">
+  <img height=40 src="[https://www.flaticon.com/free-icon/message_10312987?term=email&related_id=10312987](https://www.flaticon.com/free-icon/message_10312987?term=email&related_id=10312987)"/>
 </a>
 <a href="https://www.linkedin.com/in/annamowinska/">
   <img height=40 src="https://skillicons.dev/icons?i=linkedin" />
