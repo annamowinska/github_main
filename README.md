@@ -12,6 +12,7 @@
 <a href="https://github.com/annamowinska/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annamowinska&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=merko&bg_color=00000000" />
 </a>
+<br>
 <p>Contact</p>
 <a href="https://www.linkedin.com/in/annamowinska/">
   <img height=40 src="![image](https://github.com/annamowinska/annamowinska/assets/107001736/0bcaba14-e9b9-47e4-8a2a-c599b7621ff6)
