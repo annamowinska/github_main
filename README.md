@@ -13,7 +13,7 @@
 </a>
 <br>
 <br>
-<b>Contact</b>
+<p><b>Contact</b></p>
 <a href="mailto:mowinskaania@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Mail" title="Mail" width="40" height="40" />
 </a>
