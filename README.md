@@ -15,11 +15,10 @@
 <br>
 <p>Contact</p>
 <a href="https://www.linkedin.com/in/annamowinska/">
-  <img height=40 src="![image](https://github.com/annamowinska/annamowinska/assets/107001736/3dc11559-beb6-4efe-9a16-e68d006adaf5)
-"/>
+  <img height=40 src="https://www.flaticon.com/free-icon/message_10312987?term=email&related_id=10312987"/>
 </a>
 <a href="https://www.linkedin.com/in/annamowinska/">
-  <img height=40 src="https://www.flaticon.com/free-icon/message_10312987?term=email&related_id=10312987" />
+  <img height=40 src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://github.com/annamowinska">
   <img height=40 src="https://skillicons.dev/icons?i=github" />
