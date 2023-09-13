@@ -9,9 +9,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annamowinska&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=merko&bg_color=00000000" />
 </a>
 <a href="http://www.github.com/annamowinska"><img src="https://streak-stats.demolab.com?user=annamowinska&theme=merko&bg_color=00000000" /></a>
-<a href="https://github.com/annamowinska/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=annamowinska&show_icons=true&theme=merko&bg_color=00000000&border_color=red" />
-</a>
 <br>
 <br>
 <p><b>Contact</b></p>
