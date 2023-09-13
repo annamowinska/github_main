@@ -14,16 +14,17 @@
 </a>
 ### Contact
 <a href="https://www.linkedin.com/in/annamowinska/">
-  <img height=20 src="https://skillicons.dev/icons?i=linkedin" />
+  <img height=40 src="![image](https://github.com/annamowinska/annamowinska/assets/107001736/0bcaba14-e9b9-47e4-8a2a-c599b7621ff6)
+" />
 </a>
 <a href="https://www.linkedin.com/in/annamowinska/">
-  <img height=20 src="https://skillicons.dev/icons?i=linkedin" />
+  <img height=40 src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://github.com/annamowinska">
-  <img height=20 src="https://skillicons.dev/icons?i=github" />
+  <img height=40 src="https://skillicons.dev/icons?i=github" />
 </a>
 <a href="https://discord.gg/HcBej8ef">
-  <img height=20 src="https://skillicons.dev/icons?i=discord" />
+  <img height=40 src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=annamowinska&color=green)
