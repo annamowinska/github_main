@@ -32,4 +32,4 @@
 ![](https://komarev.com/ghpvc/?username=annamowinska&color=green)
 
 <a href="http://www.github.com/annamowinska"><img src="https://github-readme-streak-stats.herokuapp.com/?user=annamowinska&theme=radical" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=annamowinska&theme=merko&locale=pl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=annamowinska&theme=merko)](https://git.io/streak-stats)
