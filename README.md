@@ -27,6 +27,6 @@
 <a href="https://discord.gg/HcBej8ef">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/discord.png" alt="Discord" title="Discord" width="40" height="40" />
 </a>
-<br>
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=annamowinska&color=green)
