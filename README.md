@@ -8,7 +8,7 @@
 <a href="https://github.com/annamowinska/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annamowinska&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=sunset-gradient&bg_color=00000000" />
 </a>
-<a href="http://www.github.com/annamowinska"><img src="https://streak-stats.demolab.com?user=annamowinska&theme=sunset-gradient&bg_color=00000000" /></a>
+<a href="http://www.github.com/annamowinska"><img height=200 align="center" src="https://streak-stats.demolab.com?user=annamowinska&theme=sunset-gradient&bg_color=00000000" /></a>
 <br>
 <br>
 <p><b>Contact</b></p>
