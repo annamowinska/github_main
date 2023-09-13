@@ -15,8 +15,8 @@
 <br>
 <p>Contact</p>
 <a href="https://www.linkedin.com/in/annamowinska/">
-  <img height=40 src="![image](https://github.com/annamowinska/annamowinska/assets/107001736/0bcaba14-e9b9-47e4-8a2a-c599b7621ff6)
-" />
+  <img height=40 src="![image](https://github.com/annamowinska/annamowinska/assets/107001736/3dc11559-beb6-4efe-9a16-e68d006adaf5)
+"/>
 </a>
 <a href="https://www.linkedin.com/in/annamowinska/">
   <img height=40 src="https://skillicons.dev/icons?i=linkedin" />
