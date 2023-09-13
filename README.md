@@ -19,7 +19,7 @@
 "/>
 </a>
 <a href="https://www.linkedin.com/in/annamowinska/">
-  <img height=40 src="https://skillicons.dev/icons?i=linkedin" />
+  <img height=40 src="https://www.flaticon.com/free-icon/message_10312987?term=email&related_id=10312987" />
 </a>
 <a href="https://github.com/annamowinska">
   <img height=40 src="https://skillicons.dev/icons?i=github" />
