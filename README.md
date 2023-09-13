@@ -30,9 +30,3 @@
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=annamowinska&color=green)
-
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
