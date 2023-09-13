@@ -2,7 +2,7 @@
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,styledcomponents,svg)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,linkedin,mongodb,postman,vscodefigma,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linkedin,mongodb,postman,vscode,figma,discord)](https://skillicons.dev)
 
 ### My GitHub Stats
 
