@@ -28,5 +28,6 @@
 <a href="https://discord.gg/HcBej8ef">
   <img height=40 src="https://skillicons.dev/icons?i=discord" />
 </a>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=annamowinska&color=green)
