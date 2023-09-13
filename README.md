@@ -14,9 +14,7 @@
 <br>
 <br>
 <p>Contact</p>
-
-<a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Fathema Khanom - Flaticon</a>
-<a href="https://www.linkedin.com/in/annamowinska/">
+<a href="[mailto:mowinskaania@gmail.com](https://www.google.com/search?q=mailto%3mowinskaania%40gmail.com)">
   <img height=40 src="https://www.flaticon.com/free-icon/message_10312987?term=email&related_id=10312987"/>
 </a>
 <a href="https://www.linkedin.com/in/annamowinska/">
