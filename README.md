@@ -18,14 +18,14 @@
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Mail" title="Mail" width="25" height="25" />
 </a>
 <a href="https://www.linkedin.com/in/annamowinska/">
-  <img height=40 src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkeind" title="Linkedin" width="25" height="25" />
 </a>
 <a href="https://github.com/annamowinska">
-  <img height=40 src="https://skillicons.dev/icons?i=github" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="Github" title="Github" width="25" height="25" />
 </a>
 
 <a href="https://discord.gg/HcBej8ef">
-  <img height=40 src="https://skillicons.dev/icons?i=discord" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/discord.png" alt="Discord" title="Discord" width="25" height="25" />
 </a>
 <br>
 
