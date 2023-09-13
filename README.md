@@ -15,7 +15,7 @@
 <br>
 <p>Contact</p>
 <a href="mailto:mowinskaania@gmail.com">
-  <img height=40 src="[https://www.flaticon.com/free-icon/message_10312987?term=email&related_id=10312987](https://www.flaticon.com/free-icon/message_10312987?term=email&related_id=10312987)"/>
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Mail" title="Mail" width="25" height="25" />
 </a>
 <a href="https://www.linkedin.com/in/annamowinska/">
   <img height=40 src="https://skillicons.dev/icons?i=linkedin" />
