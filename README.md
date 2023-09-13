@@ -18,14 +18,14 @@
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Mail" title="Mail" width="40" height="40" />
 </a>
 <a href="https://www.linkedin.com/in/annamowinska/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkeind" title="Linkedin" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkeind" title="Linkedin" width="40" height="40" />
 </a>
 <a href="https://github.com/annamowinska">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="Github" title="Github" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="Github" title="Github" width="40" height="40" />
 </a>
 
 <a href="https://discord.gg/HcBej8ef">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/discord.png" alt="Discord" title="Discord" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/discord.png" alt="Discord" title="Discord" width="40" height="40" />
 </a>
 <br>
 
