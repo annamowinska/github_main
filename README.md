@@ -16,5 +16,13 @@
 <a href="https://www.linkedin.com/in/annamowinska/">
   <img height=20 src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<a href="https://github.com/annamowinska">
+  <img height=20 src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://github.com/annamowinska">
+  <img height=20 src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<iframe src="https://discord.com/widget?id=1151453259240849439&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ![](https://komarev.com/ghpvc/?username=annamowinska&color=green)
