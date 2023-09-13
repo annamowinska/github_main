@@ -22,7 +22,7 @@
 <a href="https://github.com/annamowinska">
   <img height=20 src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://discord.com/api/guilds/1151453259240849439/widget.json">
+<a href="https://discord.gg/HcBej8ef">
   <img height=20 src="https://skillicons.dev/icons?i=discord" />
 </a>
 
