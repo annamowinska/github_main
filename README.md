@@ -14,7 +14,7 @@
 </a>
 ### Contact
 <a href="https://www.linkedin.com/in/annamowinska/">
-  <img height=200 align="center" src="https://skillicons.dev/icons?i=linkedin" />
+  <img height=20 src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=annamowinska&color=green)
