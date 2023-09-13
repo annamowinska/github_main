@@ -30,3 +30,5 @@
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=annamowinska&color=green)
+
+<a href="http://www.github.com/annamowinska"><img src="https://github-readme-streak-stats.herokuapp.com/?user=annamowinska&theme=radical" /></a>
